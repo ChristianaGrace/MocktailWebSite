@@ -1,0 +1,17 @@
+.card {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+ }
+ .card h2 {
+    margin-top: 0;
+ }
+ .card ul {
+    list-style-type: none;
+    padding-left: 0;
+ }
+ .card li {
+    margin-bottom: 10px;
+ }

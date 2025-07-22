@@ -1,0 +1,59 @@
+
+#searchInput {
+    width: 50%;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.posts-container {
+    text-align: center;
+    margin-top: 20px;
+}
+.posts-container h2 {
+    margin-bottom: 20px;
+}
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+}
+.card {
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: left; 
+    display:block;
+    color: inherit;
+    text-decoration: none;
+    margin:16px;
+}
+.card img {
+    width: 100%;
+    height: auto;
+    display :block;
+}
+.card h3 {
+    margin-top: 15px;
+    font-size: 1.5em;
+}
+.card p {
+    font-size: 0.9em;
+    color: #555;
+}
+.read-more {
+    display: inline-block;
+    margin-top: 10px;
+    color: #3498db;
+    text-decoration: none;
+}
+.more-posts {
+    text-align: center;
+    margin: 30px 0;
+}
+.more-posts a {
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
