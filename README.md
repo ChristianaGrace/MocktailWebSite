@@ -76,6 +76,8 @@ mocktail-mixer/
 │   └── images/
 └── sql/
     └── mocktail_mixer.sql # Database structure
+
+    
 ⚙️ Core Functionalities in PHP
 
 ✅ User authentication (register/login/logout)
