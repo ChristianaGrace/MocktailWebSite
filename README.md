@@ -47,8 +47,8 @@ Mocktastic is a vibrant and user-friendly web application built using **HTML**, 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/mocktail-mixer.git
-   cd mocktail-mixer
+   git clone https://github.com/ChristianaGrace/MocktailWebsite.git
+   cd MocktailWebsite
 Set Up Your Server Environment
 Install XAMPP, WAMP, or MAMP
 Place the project folder inside the htdocs directory (or your local server root)
@@ -56,7 +56,7 @@ Create a Database
 Import the provided mocktail_mixer.sql file into your MySQL server (via phpMyAdmin or CLI)
 Update db.php with your database credentials
 Launch the App
-Visit: http://localhost/mocktail-mixer/index.php
+Visit: http://localhost/MocktailWebsite/index.php
 
 ## 📂 Project Structure
 mocktail-mixer/
