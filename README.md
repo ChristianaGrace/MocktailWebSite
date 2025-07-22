@@ -42,11 +42,6 @@ Mocktastic is a vibrant and user-friendly web application built using **HTML**, 
 
 ---
 
-## 📸 Screenshots
-
-> _(Optional: Add images of your homepage, recipe view, submission form, and rating system here)_
-
----
 
 ## 🚀 Getting Started
 
