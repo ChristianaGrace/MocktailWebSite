@@ -57,8 +57,8 @@ Import the provided mocktail_mixer.sql file into your MySQL server (via phpMyAdm
 Update db.php with your database credentials
 Launch the App
 Visit: http://localhost/mocktail-mixer/index.php
-📂 Project Structure
 
+## 📂 Project Structure
 mocktail-mixer/
 ├── index.php
 ├── login.php
@@ -78,7 +78,7 @@ mocktail-mixer/
     └── mocktail_mixer.sql # Database structure
 
     
-⚙️ Core Functionalities in PHP
+## ⚙️Core Functionalities in PHP
 
 ✅ User authentication (register/login/logout)
 ✅ Secure session management
@@ -98,11 +98,12 @@ Image upload for recipes
 Filter recipes by ingredients, rating, or difficulty
 Admin dashboard to manage content
 Save favorite recipes to your profile
-🙌 Contributing
+
+## 🙌 Contributing
 
 Pull requests and feedback are welcome. Please open an issue to discuss any major changes before submitting a PR.
 
-📄 License
+## 📄 License
 
 This project is licensed under the MIT License.
 
