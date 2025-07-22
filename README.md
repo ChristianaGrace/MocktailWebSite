@@ -91,7 +91,8 @@ mocktail-mixer/
 Passwords are hashed before storing in the database
 Server-side validation for all user input
 Basic input sanitization and SQL injection prevention
-🧪 Future Enhancements
+
+## 🧪 Future Enhancements
 
 Profile pages for each user
 Image upload for recipes
